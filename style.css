@@ -28,8 +28,6 @@
 body{
     height: 98vh;
     background-color: var(--cor0);
-    background-image: url('imagens/robo-fundo.png');
-    background-size: 40px;
     font-family: var(--fonte-padrao);
 }
 
